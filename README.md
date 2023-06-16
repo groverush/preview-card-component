@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://github.com/groverush/preview-card-component)
+- Live Site URL: (https://preview-card-perfume.netlify.app/)
 
 ## My process
 
